@@ -1,0 +1,1 @@
+dow.blit(bul,
